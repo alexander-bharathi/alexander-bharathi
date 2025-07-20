@@ -11,13 +11,8 @@
 
 ## 💫 About Me
 
-✨ I’m a passionate full stack developer who thrives on turning bold ideas into responsive, scalable applications.  
-🎯 Clean code, great UX, and performance optimization are my go-to principles.  
-🧠 Always learning — whether it's the latest framework, GraphQL design patterns, or scalable system architecture.
-
 - 🧑‍💻 Software Engineer @ Centizen Inc
 - 🎯 Focused on Frontend & Full-Stack Development
-- 🌱 Currently learning cloud-native development & AI tools
 - 🎨 Design-focused with collaboration using **Figma**
 - 📫 Reach me at: **alexanderbdeveloper@gmail.com**  
 - 🌐 Portfolio: [alexander-bharathi.web.app](https://alexander-bharathi.web.app)
@@ -26,9 +21,11 @@
 
 ## 🛠️ Tech Stack
 
+<p align="center">
 ### 💻 Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### 🧩 Frontend
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
@@ -41,10 +38,11 @@
 ### 🛢️ Databases
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### 🎨 Design
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
+</p>
 ---
 
 ## 📈 GitHub Stats
