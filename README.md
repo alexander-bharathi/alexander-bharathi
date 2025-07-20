@@ -4,11 +4,7 @@
 <h3 align="center">🚀 Full Stack Developer | JavaScript Craftsman | UI/UX Collaborator</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&center=true&width=435&lines=Full+Stack+Engineer+%7C+Code.+Create.+Innovate.;JavaScript+%7C+TypeScript+%7C+MongoDB+%7C+PostgreSQL;Pixel+Perfect+UI+Lover+%7C+Angular+%2B+React" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coder GIF">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Code.+Create.+Innovate." alt="Typing SVG" />
 </p>
 
 ---
