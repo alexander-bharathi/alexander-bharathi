@@ -15,9 +15,9 @@
 🎯 Clean code, great UX, and performance optimization are my go-to principles.  
 🧠 Always learning — whether it's the latest framework, GraphQL design patterns, or scalable system architecture.
 
-- 🔭 Currently working with **Angular**, **React**, **Node.js**, **MongoDB**, and **PostgreSQL**
-- 🌱 Diving deeper into **GraphQL**, **Nx Monorepos**, and **System Design**
-- 💬 Ask me about **RESTful APIs**, **Clean Architecture**, and **Microservices**
+- 🧑‍💻 Software Engineer @ Centizen Inc
+- 🎯 Focused on Frontend & Full-Stack Development
+- 🌱 Currently learning cloud-native development & AI tools
 - 🎨 Design-focused with collaboration using **Figma**
 - 📫 Reach me at: **alexanderbdeveloper@gmail.com**  
 - 🌐 Portfolio: [alexander-bharathi.web.app](https://alexander-bharathi.web.app)
@@ -47,11 +47,11 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alexanderbharathi&show_icons=true&theme=radical" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=alexanderbharathi&theme=radical&hide_border=true" width="48%" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical" />
 </p>
 
 ---
