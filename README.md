@@ -4,49 +4,74 @@
 <h3 align="center">🚀 Full Stack Developer | JavaScript Craftsman | UI/UX Collaborator</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Code.+Create.+Innovate." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&center=true&width=435&lines=Full+Stack+Engineer+%7C+Code.+Create.+Innovate.;JavaScript+%7C+TypeScript+%7C+MongoDB+%7C+PostgreSQL;Pixel+Perfect+UI+Lover+%7C+Angular+%2B+React" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coder GIF">
 </p>
 
 ---
 
 ## 💫 About Me
 
-- 🔭 I’m currently working on full-stack web apps using **Angular, React, Node.js**  
-- 🌱 I’m learning more about **GraphQL**, **Nx Monorepos**, and **system design**
-- 💬 Ask me about anything related to **JavaScript**, **MongoDB**, **PostgreSQL**, or **REST APIs**
-- 🎨 I collaborate on UI/UX using **Figma** to bring pixel-perfect designs to life
-- 📫 How to reach me: `alexanderbdeveloper@gmail.com`  
+✨ I’m a passionate full stack developer who thrives on turning bold ideas into responsive, scalable applications.  
+🎯 Clean code, great UX, and performance optimization are my go-to principles.  
+🧠 Always learning — whether it's the latest framework, GraphQL design patterns, or scalable system architecture.
+
+- 🔭 Currently working with **Angular**, **React**, **Node.js**, **MongoDB**, and **PostgreSQL**
+- 🌱 Diving deeper into **GraphQL**, **Nx Monorepos**, and **System Design**
+- 💬 Ask me about **RESTful APIs**, **Clean Architecture**, and **Microservices**
+- 🎨 Design-focused with collaboration using **Figma**
+- 📫 Reach me at: **alexanderbdeveloper@gmail.com**  
 - 🌐 Portfolio: [alexander-bharathi.web.app](https://alexander-bharathi.web.app)
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 👨‍💻 Languages
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
+### 💻 Languages
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### 🧩 Frontend
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular)
-![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
 ### 🚀 Backend
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js)
-![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)
 
 ### 🛢️ Databases
-![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=flat-square&logo=mongodb)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### 🎨 Design
-![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
-## 🤝 Let's Connect
+## 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/alexander-bharathi/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin"></a>
-  <a href="mailto:alexanderbdeveloper@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=gmail&logoColor=white"></a>
-  <a href="https://alexander-bharathi.web.app"><img src="https://img.shields.io/badge/-Portfolio-000?style=flat-square&logo=web&logoColor=white"></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=alexanderbharathi&show_icons=true&theme=radical" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=alexanderbharathi&theme=radical&hide_border=true" width="48%" />
+</p>
+
+---
+
+## 🌐 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/alexander-bharathi/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:alexanderbdeveloper@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://alexander-bharathi.web.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=web&logoColor=white" /></a>
+</p>
+
+---
+
+## 🔥 Currently Working With
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=angular,react,nodejs,express,mongodb,postgres,ts,js,figma" />
 </p>
