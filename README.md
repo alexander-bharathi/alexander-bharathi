@@ -15,8 +15,8 @@
 - 🌱 I’m learning more about **GraphQL**, **Nx Monorepos**, and **system design**
 - 💬 Ask me about anything related to **JavaScript**, **MongoDB**, **PostgreSQL**, or **REST APIs**
 - 🎨 I collaborate on UI/UX using **Figma** to bring pixel-perfect designs to life
-- 📫 How to reach me: `your.email@example.com`  
-- 🌐 Portfolio: [your-portfolio.com](https://your-portfolio.com)
+- 📫 How to reach me: `alexanderbdeveloper@gmail.com`  
+- 🌐 Portfolio: [alexander-bharathi.web.app](https://alexander-bharathi.web.app)
 
 ---
 
@@ -43,19 +43,10 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical" />
-</p>
-
----
-
 ## 🤝 Let's Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin"></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=gmail&logoColor=white"></a>
-  <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/-Portfolio-000?style=flat-square&logo=web&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/alexander-bharathi/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin"></a>
+  <a href="mailto:alexanderbdeveloper@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=gmail&logoColor=white"></a>
+  <a href="https://alexander-bharathi.web.app"><img src="https://img.shields.io/badge/-Portfolio-000?style=flat-square&logo=web&logoColor=white"></a>
 </p>
