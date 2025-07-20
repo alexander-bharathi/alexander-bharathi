@@ -21,7 +21,6 @@
 
 ## 🛠️ Tech Stack
 
-<p align="center">
 ### 💻 Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -42,7 +41,7 @@
 
 ### 🎨 Design
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-</p>
+
 ---
 
 ## 📈 GitHub Stats
